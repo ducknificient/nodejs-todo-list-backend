@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-todo-list-backend",
+  "version": "1.0.0",
+  "description": "Simple todo-list App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeremysaputra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.5",
+    "mysql": "^2.18.1"
+  }
+}
